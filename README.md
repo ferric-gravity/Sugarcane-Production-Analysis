@@ -26,9 +26,10 @@ seaborn (optional, for advanced visualizations)
 To install these packages, use: pip install pandas matplotlib seaborn
 
 Usage
-
+On CMD/Terminal
 Clone the repository:
 git clone https://github.com/god-killer223/Sugarcane-Production-Analysis.git
+then
 cd sugarcane-production-analysis
 
 Open the Notebook:

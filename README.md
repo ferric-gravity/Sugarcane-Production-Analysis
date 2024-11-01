@@ -3,7 +3,7 @@ Sugarcane Production Analysis
 
 This repository contains resources and code for analyzing sugarcane production data across different countries. The project leverages a CSV dataset and an accompanying Jupyter Notebook for data analysis.
 
-Repository Contents
+## Repository Contents
 
 List of Countries by Sugarcane Production.csv: CSV file containing data on sugarcane production by country.
 Sugarcane Production Project.ipynb: Jupyter Notebook that demonstrates data processing, analysis, and visualization for the sugarcane production dataset.
@@ -16,7 +16,7 @@ Statistical analysis of production data.
 Visualization of production trends by country.
 Getting Started
 
-Prerequisites
+## Prerequisites
 
 Ensure you have Python installed, along with Jupyter Notebook and the following libraries:
 
@@ -25,7 +25,7 @@ matplotlib
 seaborn (optional, for advanced visualizations)
 To install these packages, use: pip install pandas matplotlib seaborn
 
-Usage
+## Usage
 On CMD/Terminal
 Clone the repository:
 git clone https://github.com/god-killer223/Sugarcane-Production-Analysis.git
